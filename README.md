@@ -6,33 +6,33 @@
 
 | Day | Topic | Problem | Solutions |
 | --- | --- | --- | --- |
-| 1 | Closure | Create Hello World Function | [Solution](solutions/Exercise*1/hello_world.js) |
-| 2 | Closure | Counter | Solution |
-| 3 | Closure | Counter II | Solution |
-| 4 | Basic Array Transforms | Apply Transform Over Each Element in Array | Solution |
-| 5 | Basic Array Transforms | Filter Elements from Array | Solution |
-| 6 | Basic Array Transforms | Array Reduce Transformation | Solution |
-| 7 | Function input and Output | Function Composition | Solution |
-| 8 | Function input and Output | Allow One Function Call | Solution |
-| 9 | Function input and Output | Memoize | Solution |
-| 10 | Function input and Output | Curry | Solution |
-| 11 | Promise | Sleep | Solution |
-| 12 | Promise | Promise Time Limit | Solution |
-| 13 | Promise | Promise Pool | Solution |
-| 14 | Time (setTimeout) | Cache With Time Limit | Solution |
-| 15 | Time (setTimeout) | Debounce | Solution |
-| 16 | Time (setTimeout) | Throttle | Solution |
-| 17 | JSON / Recursion / Important Utilities | JSON Deep Equal | Solution |
-| 18 | JSON / Recursion / Important Utilities | Convert Object to JSON String | Solution |
-| 19 | JSON / Recursion / Important Utilities | Array of Objects to Matrix | Solution |
-| 20 | JSON / Recursion / Important Utilities | Differences Between Two Objects | Solution |
-| 21 | JSON / Recursion / Important Utilities | Chunk Array | Solution |
-| 22 | JSON / Recursion / Important Utilities | Flatten Deeply Nested Array | Solution |
-| 23 | This | Array Prototype Last | Solution |
-| 24 | This | Group By | Solution |
-| 25 | This | Check if Object Instance of Class | Solution |
-| 26 | This | Call Function with Custom Context | Solution |
-| 27 | Classes | Event Emitter | Solution |
-| 28 | Classes | Array Wrapper | Solution |
-| 29 | Generators | Generate Fibonacci Sequence | Solution |
-| 30 | Generators | Nested Array Generator | Solution |
+| 1 | Closure | Create Hello World Function | [Solution_1](solutions/Exercise_1/hello_world.js) |
+| 2 | Closure | Counter | [Solution_2](solutions/Exercise_2/counter.js) |
+| 3 | Closure | Counter II | Solution_3 |
+| 4 | Basic Array Transforms | Apply Transform Over Each Element in Array | Solution_4|
+| 5 | Basic Array Transforms | Filter Elements from Array | Solution_5 |
+| 6 | Basic Array Transforms | Array Reduce Transformation | Solution_6 |
+| 7 | Function input and Output | Function Composition | Solution_7 |
+| 8 | Function input and Output | Allow One Function Call | Solution_8 |
+| 9 | Function input and Output | Memoize | Solution_9 |
+| 10 | Function input and Output | Curry | Solution_10|
+| 11 | Promise | Sleep | Solution_11 |
+| 12 | Promise | Promise Time Limit | Solution_12 |
+| 13 | Promise | Promise Pool | Solution_13 |
+| 14 | Time (setTimeout) | Cache With Time Limit | Solution_14|
+| 15 | Time (setTimeout) | Debounce | Solution_15 |
+| 16 | Time (setTimeout) | Throttle | Solution_16 |
+| 17 | JSON / Recursion / Important Utilities | JSON Deep Equal | Solution_17 |
+| 18 | JSON / Recursion / Important Utilities | Convert Object to JSON String | Solution_18 |
+| 19 | JSON / Recursion / Important Utilities | Array of Objects to Matrix | Solution_19 |
+| 20 | JSON / Recursion / Important Utilities | Differences Between Two Objects | Solution_20|
+| 21 | JSON / Recursion / Important Utilities | Chunk Array | Solution_21 |
+| 22 | JSON / Recursion / Important Utilities | Flatten Deeply Nested Array | Solution_22 |
+| 23 | This | Array Prototype Last | Solution_23 |
+| 24 | This | Group By | Solution_24 |
+| 25 | This | Check if Object Instance of Class | Solution_25 |
+| 26 | This | Call Function with Custom Context | Solution_26 |
+| 27 | Classes | Event Emitter | Solution_27 |
+| 28 | Classes | Array Wrapper | Solution_28 |
+| 29 | Generators | Generate Fibonacci Sequence | Solution_29 |
+| 30 | Generators | Nested Array Generator | Solution_30 |
