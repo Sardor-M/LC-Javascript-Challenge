@@ -2,6 +2,8 @@
 
 ### Day 2 - Counter
 
+____________________________________________________________________________________________________________________
+
 ## 🏗️ Description:
 
 Given an integer n, return a counter function. This counter function initially returns n and then returns 1 more than the previous value every subsequent time it is called `(n, n + 1, n + 2, etc)`.
@@ -35,3 +37,11 @@ Explanation: counter() initially returns -2. Then increases after each sebsequen
 ```
 At most 1000 calls to counter() will be made
 ```
+
+____________________________________________________________________________________________________________________
+
+## 📝 Explanation: 
+
+- [Solution_2](solutions/Exercise_2/counter.js)
+
+> This is a simple exercise to understand the concept of closure. The function `createCounter` returns a function that always returns "Hello World". The function returned by `createCounter` is a closure because it remembers the value of the variable `n` even after the function `createCounter` has finished running. 

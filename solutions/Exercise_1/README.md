@@ -33,3 +33,11 @@ Any arguments could be passed to the function but it should still always return 
 ```
 0 <= args.length <= 10
 ```
+
+
+## 📝 Explanation: 
+
+- [Solution_1](solutions/Exercise_1/hello_world.js)
+
+> This is a simple exercise to understand the concept of closure. The function `createHelloWorld` returns a function that always returns "Hello World". The function returned by `createHelloWorld` is a closure because it remembers the value of the variable `message` even after the function `createHelloWorld` has finished running.
+
