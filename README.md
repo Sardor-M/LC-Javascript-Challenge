@@ -8,14 +8,14 @@
 | --- | --- | --- | --- |
 | 1 | Closure | Create Hello World Function | [Solution_1](solutions/Exercise_1/hello_world.js) |
 | 2 | Closure | Counter | [Solution_2](solutions/Exercise_2/counter.js) |
-| 3 | Closure | Counter II | Solution_3 |
-| 4 | Basic Array Transforms | Apply Transform Over Each Element in Array | Solution_4|
-| 5 | Basic Array Transforms | Filter Elements from Array | Solution_5 |
-| 6 | Basic Array Transforms | Array Reduce Transformation | Solution_6 |
-| 7 | Function input and Output | Function Composition | Solution_7 |
-| 8 | Function input and Output | Allow One Function Call | Solution_8 |
-| 9 | Function input and Output | Memoize | Solution_9 |
-| 10 | Function input and Output | Curry | Solution_10|
+| 3 | Closure | Counter II | [Solution_3](solutions/Exercise_3/counter_2.js) |
+| 4 | Basic Array Transforms | Apply Transform Over Each Element in Array | [Solution_4](solutions/Exercise_4/array_transform.js)|
+| 5 | Basic Array Transforms | Filter Elements from Array | [Solution_5](solutions/Exercise_5/filter_elements.js) |
+| 6 | Basic Array Transforms | Array Reduce Transformation | [Solution_6](solutions/Exercise_6/arr_reduce_transform.js) |
+| 7 | Function input and Output | Function Composition | [Solution_7](solutions/Exercise_7/function_composition.js) |
+| 8 | Function input and Output | Allow One Function Call | [Solution_8](solutions/Exercise_8/function_call.js) |
+| 9 | Function input and Output | Memoize | [Solution_9](solutions/Exercise_9/memoize.js) |
+| 10 | Function input and Output | Curry | [Solution_10](solutions/Exercise_10/curry.js)|
 | 11 | Promise | Sleep | Solution_11 |
 | 12 | Promise | Promise Time Limit | Solution_12 |
 | 13 | Promise | Promise Pool | Solution_13 |
