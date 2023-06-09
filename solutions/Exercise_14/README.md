@@ -67,4 +67,4 @@ ________________________________________________________________________________
 
 - [Solution_14](solutions/Exercise_14/cache_time_limit.js)
 
-> 
+> Here, in the solution, we are using `TimeLimitedClass` which provides a cache implementation that associates each entry with an expiration time. It allows setting and retrieving values based on keys and provides a count of the valid entries in the cache. This type of cache is useful when dealing with a resource that is expensive to compute and is only valid for a certain amount of time. The `TimeLimitedClass` class has three methods: `set`, `get`, and `count`. The `set` method takes a key, value, and duration as parameters. It stores the key-value pair in the cache and associates it with the given duration. The `get` method takes a key as a parameter and returns the associated value if the key is valid. The `count` method returns the number of valid entries in the cache. The `TimeLimitedClass` class uses a `Map` to store the key-value pairs. The `Map` is a built-in data structure that stores key-value pairs. It is similar to an object, but it allows any type 
