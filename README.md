@@ -17,7 +17,7 @@
 | 9 | Function input and Output | Memoize | [Solution_9](solutions/Exercise_9/memoize.js) |
 | 10 | Function input and Output | Curry | [Solution_10](solutions/Exercise_10/curry.js)|
 | 11 | Promise | Sleep | [Solution_11](solutions/Exercise_11/sleep.js) |
-| 12 | Promise | Promise Time Limit | Solution_12 |
+| 12 | Promise | Promise Time Limit | [Solution_12](solutions/Exercise_12/promise_time_limit.js) |
 | 13 | Promise | Promise Pool | Solution_13 |
 | 14 | Time (setTimeout) | Cache With Time Limit | Solution_14|
 | 15 | Time (setTimeout) | Debounce | Solution_15 |
