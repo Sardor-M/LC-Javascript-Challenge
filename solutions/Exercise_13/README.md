@@ -1,48 +1,12 @@
-# 🔨 Day 3
+# 🔨 Day 13
 
-### Day 3 - Counter II
+### Day 13 - Promise Pool
 
 ---
 
 ## 🏗️ Description:
 
-Write a function createCounter. It should accept an initial integer init. It should return an object with three functions.
-
-The three functions are:
-
-- increment() increases the current value by 1 and then returns it.
-- decrement() reduces the current value by 1 and then returns it.
-- reset() sets the current value to init and then returns it.
-
-**Example 1:**
-```
-Input: init = 5, calls = ["increment","reset","decrement"]
-Output: [6,5,4]
-Explanation:
-const counter = createCounter(5);
-counter.increment(); // 6
-counter.reset(); // 5
-counter.decrement(); // 4
-```
-**Example 2:**
-```
-Input: init = 0, calls = ["increment","increment","decrement","reset","reset"]
-Output: [1,2,1,0,0]
-Explanation:
-const counter = createCounter(0);
-counter.increment(); // 1
-counter.increment(); // 2
-counter.decrement(); // 1
-counter.reset(); // 0
-counter.reset(); // 0
-```
-**Constraints:**
-```
--1000 <= init <= 1000
-```
-```
-total calls not to exceed 1000
-```
+> Note: This exercise only contains the solution. For the description of the exercise, refer to the leetcode website by clicking [here](https://leetcode.com/problems/promise-pool/?utm_campaign=PostD13&utm_medium=Post&utm_source=Post&gio_link_id=3oLQwOg9).
 
 ____________________________________________________________________________________________________________________
 
@@ -50,4 +14,4 @@ ________________________________________________________________________________
 
 - [Solution_3](solutions/Exercise_3/counter_2.js)
 
-> This is a simple exercise to understand the concept of closure. The function `createCounter` returns an object with three functions. The functions `increment`, `decrement` and `reset` are closures because they remember the value of the variable `init` even after the function `createCounter` has finished running.
+> In this solution, i am using "promisePool" function which allows us to execute a pool of async functions conrueently with a specified limit. As you go through the solution code, you will witness that we are ensuring that the funcitons are executed in parallel up to the specified limit and provides a promise that resolves when all the functions have completed. 
