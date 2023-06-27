@@ -24,8 +24,8 @@ This is the challenge introduced by the [leetcode.com](https://leetcode.com/disc
 | 16  | Time (setTimeout)                      | Throttle                                   | [Solution_16](solutions/Exercise_16/throttle.js)           |
 | 17  | JSON / Recursion / Important Utilities | JSON Deep Equal                            | [Solution_17](solutions/Exercise_17/deep_equal.js)         |
 | 18  | JSON / Recursion / Important Utilities | Convert Object to JSON String              | [Solution_18](solutions/Exercise_18/convert_object.js)     |
-| 19  | JSON / Recursion / Important Utilities | Array of Objects to Matrix                 | Solution_19                                                |
-| 20  | JSON / Recursion / Important Utilities | Differences Between Two Objects            | Solution_20                                                |
+| 19  | JSON / Recursion / Important Utilities | Array of Objects to Matrix                 | [Solution_19](solutions/Exercise_19/object_to_matrix.js)   |
+| 20  | JSON / Recursion / Important Utilities | Differences Between Two Objects            | [Solution_20](solutions/Exercise_20/diff_objects.js)       |
 | 21  | JSON / Recursion / Important Utilities | Chunk Array                                | Solution_21                                                |
 | 22  | JSON / Recursion / Important Utilities | Flatten Deeply Nested Array                | Solution_22                                                |
 | 23  | This                                   | Array Prototype Last                       | Solution_23                                                |
