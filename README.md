@@ -20,8 +20,8 @@ This is the challenge introduced by the [leetcode.com](https://leetcode.com/disc
 | 12  | Promise                                | Promise Time Limit                         | [Solution_12](solutions/Exercise_12/promise_time_limit.js) |
 | 13  | Promise                                | Promise Pool                               | [Solution_13](solutions/Exercise_13/promise_pool.js)       |
 | 14  | Time (setTimeout)                      | Cache With Time Limit                      | [Solution_14](solutions/Exercise_14/cache_time_limit.js)   |
-| 15  | Time (setTimeout)                      | Debounce                                   | Solution_15                                                |
-| 16  | Time (setTimeout)                      | Throttle                                   | Solution_16                                                |
+| 15  | Time (setTimeout)                      | Debounce                                   | [Solution_15](solutions/Exercise_15/debounce.js)           |
+| 16  | Time (setTimeout)                      | Throttle                                   | [Solution_16](solutions/Exercise_16/throttle.js)           |
 | 17  | JSON / Recursion / Important Utilities | JSON Deep Equal                            | Solution_17                                                |
 | 18  | JSON / Recursion / Important Utilities | Convert Object to JSON String              | Solution_18                                                |
 | 19  | JSON / Recursion / Important Utilities | Array of Objects to Matrix                 | Solution_19                                                |
