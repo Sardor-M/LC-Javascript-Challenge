@@ -27,7 +27,7 @@ This is the challenge introduced by the [leetcode.com](https://leetcode.com/disc
 | 19  | JSON / Recursion / Important Utilities | Array of Objects to Matrix                 | [Solution_19](solutions/Exercise_19/object_to_matrix.js)   |
 | 20  | JSON / Recursion / Important Utilities | Differences Between Two Objects            | [Solution_20](solutions/Exercise_20/diff_objects.js)       |
 | 21  | JSON / Recursion / Important Utilities | Chunk Array                                | [Solution_21](solutions/Exercise_21/chunk_array.js)        |
-| 22  | JSON / Recursion / Important Utilities | Flatten Deeply Nested Array                | Solution_22                                                |
+| 22  | JSON / Recursion / Important Utilities | Flatten Deeply Nested Array                | [Solution_22](solutions/Exercise_22/flatten_array.js)      |
 | 23  | This                                   | Array Prototype Last                       | Solution_23                                                |
 | 24  | This                                   | Group By                                   | Solution_24                                                |
 | 25  | This                                   | Check if Object Instance of Class          | Solution_25                                                |
